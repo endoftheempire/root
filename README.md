@@ -1,2 +1,2 @@
 # root
-Since the root redirection is not working, this is a message that will be displayed when somebody goes to endoftheempire.tk or endoftheempire.ml.
+Since Cloudflare URL forwarding does not seem to work unless there is a DNS record for that URL, this is a simple message for the root domains. Going to the root should redirect to the website, but if it doesn't work, this message will tell them the correct URL.
